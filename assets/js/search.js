@@ -21,9 +21,9 @@ var documents = [{
     "body": "WarningDo not manually save images into this folder. This is used by GitHub Actions to automatically copy images.  Any images you save into this folder could be deleted at build time. "
     }, {
     "id": 4,
-    "url": "https://inc0.github.io/2020/02/28/first-post.html",
-    "title": "Title",
-    "body": "2020/02/28 -           "
+    "url": "https://inc0.github.io/jupyter/2020/02/28/first-post.html",
+    "title": "First blogpost",
+    "body": "2020/02/28 -           Trying out fastpages&#182;this should be easy. . . But is it that easy?&#182;: I guess we'll see. . . "
     }, {
     "id": 5,
     "url": "https://inc0.github.io/jupyter/2020/02/20/test.html",
